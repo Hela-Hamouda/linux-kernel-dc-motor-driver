@@ -18,6 +18,4 @@ Ce projet implémente un **driver noyau Linux** permettant :
 - Linux Kernel Module
 - Device Tree, PWM, ADC, libgpiod
 
-## Auteur
 
-Hela Hamouda — Élève ingénieure en Génie Électrique, ENIT
