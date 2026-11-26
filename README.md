@@ -10,12 +10,14 @@ Résultat mesuré au banc : **4 031 interruptions traitées sans aucune perte**,
 
 ## 1. Démonstration
 
-<!-- Glisser le fichier .mp4 ici depuis l'éd
 
-https://github.com/user-attachments/assets/5940ee48-7d95-441f-b19f-d63c57ea291d
 
-iteur GitHub pour l'insérer -->
+https://github.com/user-attachments/assets/71ae92ec-a9ac-437a-baf0-26696b1cd85b
 
+La vidéo montre successivement : le banc de mesure (BeagleBone Black
+instrumentée à l'oscilloscope), la comparaison entre périodes demandées
+et périodes réellement mesurées affichée dans le terminal, et le train
+d'impulsions de l'encodeur relevé à l'oscilloscope.
 ---
 
 ## 2. Principe de fonctionnement
