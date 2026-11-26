@@ -10,7 +10,11 @@ Résultat mesuré au banc : **4 031 interruptions traitées sans aucune perte**,
 
 ## 1. Démonstration
 
-<!-- Glisser le fichier .mp4 ici depuis l'éditeur GitHub pour l'insérer -->
+<!-- Glisser le fichier .mp4 ici depuis l'éd
+
+https://github.com/user-attachments/assets/5940ee48-7d95-441f-b19f-d63c57ea291d
+
+iteur GitHub pour l'insérer -->
 
 ---
 
